@@ -7,5 +7,3 @@ public class Decrescente40a20 {
         }
     }
 }
-
-
