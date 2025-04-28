@@ -1,3 +1,4 @@
+
 public class quatroVariaveis {
     public static void main(String[] args) {
 

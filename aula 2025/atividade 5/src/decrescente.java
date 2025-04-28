@@ -1,4 +1,4 @@
-public class Decrescente {
+public class decrescente {
 
     public static void main(String[] args) {
         // Loop de 39 até 21 (exclusivo de 20)
